@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "twitter-338604": {
+      "hosting": {
+        "CLONE": [
+          "twitter-338604"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "twitter-338604"
+  }
+}
